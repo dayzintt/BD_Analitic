@@ -1,0 +1,28 @@
+;Taxa de Cobertura de Planos de Saúde
+Adados/tb_tx_*.dbf
+
+H<script language="JavaScript" src="../header_RC.js"></script>
+H<script language="JavaScript" src="../header2.js"></script>
+F<script language="JavaScript" src="../footer_c_indicadores.js"></script>
+F<script language="JavaScript" src="../footer.js"></script>
+
+IAssistência Médica,       benef_medico, populacao,100,1
+IExcl. Odontológico,       benef_odonto, populacao,100,1
+
+TAno,                     Ano          ,1,cnv/ano_tx.cnv
+TUF,                      sg_UF        ,1,cnv/cd_uf_brasil_l.cnv
+TCapital,                 cd_capital   ,1,cnv/capital.cnv
+TInterior,                cd_capital   ,1,cnv/interior_tx.cnv
+TReg. Metropolitana,      CD_RM        ,1,cnv/cd_rm.cnv
+TRegião,                  SG_UF        ,1,cnv/cd_regiao_brasil.cnv
+LRegiao/UF,               sg_UF        ,1,cnv/cd_uf_brasil.cnv
+TSexo,                    SEXO         ,1,cnv/tp_sexo.cnv
+TFaixa Etária,            Faixa_etaria ,1,cnv/faixa_tx.cnv
+
+SUF,                      sg_UF        ,1,cnv/cd_uf_brasil_s.cnv
+SCapital,                 cd_capital   ,1,cnv/capital.cnv
+SInterior,                cd_capital   ,1,cnv/interior_tx.cnv
+SReg. Metropolitana,      CD_RM        ,1,cnv/cd_rm.cnv
+SRegião,                  SG_UF        ,1,cnv/cd_regiao_brasil.cnv
+SSexo,                    SEXO         ,1,cnv/tp_sexo.cnv
+SFaixa Etária,            Faixa_etaria ,1,cnv/faixa_tx.cnv

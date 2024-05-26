@@ -1,0 +1,9 @@
+7 2  
+;
+      1   Ambulatorial                                      01,08
+      2   Hospitalar                                        02,03,09,10,11,15
+      3   Hospitalar e Ambulatorial                         06,07,12,13,14
+      4   Referência                                        05
+      5   Odontológico                                      04
+      6   Informado incorretamente                          99
+      7   Não Informado                                     00

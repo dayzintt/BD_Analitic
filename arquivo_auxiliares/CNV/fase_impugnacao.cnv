@@ -1,0 +1,14 @@
+9 1
+; Fase de impugnação 
+;
+      1	 Nao mpugnada sem cobranca                          0
+      2	 Fase de impugnacao                                 1
+      3	 Avaliando em 1ª Instância                          2
+      4	 Avaliando em 2ª Instância                          3
+      5	 Deferido                                           4
+      6	 Apta para cobranca                                 5
+      7	 Cobrado                                            6
+      8  Indeferida sem cobranca                            7
+      9  Impedida de Impugnacao                             9  
+
+

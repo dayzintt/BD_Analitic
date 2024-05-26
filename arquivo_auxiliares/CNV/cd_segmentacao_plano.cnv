@@ -1,0 +1,18 @@
+17 2 L
+      1   Referência                                        05
+      2   Hosp. c/ Obstetrícia + Ambulatorial + Odonto      13
+      3   Hosp. c/ Obstetrícia + Ambulatorial               06
+      4   Hosp. c/ Obstetrícia + Odonto                     10
+      5   Hosp. c/ Obstetrícia                              02
+      6   Hosp. c/s Obstetrícia + Ambulatorial              12
+      7   Hosp. c/s Obstetrícia + Odonto                    15
+      8   Hosp. c/s Obstetrícia                             09
+      9   Hosp. s/ Obstetrícia + Ambulatorial + Odonto      14
+     10   Hosp. s/ Obstetrícia + Ambulatorial               07
+     11   Hosp. s/ Obstetrícia + Odonto                     11
+     12   Hosp. s/ Obstetrícia                              03
+     13   Ambulatorial + Odonto                             08
+     14   Ambulatorial                                      01
+     15   Odontológico                                      04
+     16   Informado incorretamente                          99
+     17   Não Informado                                     00

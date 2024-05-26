@@ -1,0 +1,26 @@
+;Planos / Produtos com Beneficiários
+Adados/plano_*.dbf
+
+H<script language="JavaScript" src="../header.js"></script>
+H<script language="JavaScript" src="../header2.js"></script>
+F<script language="JavaScript" src="../footer.js"></script>
+
+
+
+
+EPlanos com Benef.,        lg_benef,CMPT
+
+TCompetência,              CMPT      ,1,cnv/id_tempo_competencia.cnv
+TContratação,              tp_CONTRat,1,cnv/cd_tp_contratacao.cnv
+TSegmentação,              tp_SEGMENT,1,cnv/cd_segmentacao_plano.cnv
+TAbrang. Geográfica,       TP_abrange,1,cnv/cd_abrg_geo.cnv
+TÉpoca do Contrato,        TP_VIGENCI,1,cnv/tp_vigencia_plano.cnv
+TInd. livre escolha,       lg_livre_e,1,cnv/lg_livre_escolha.cnv
+TModalidade,               MODALIDADE,1,cnv/modalidade.cnv
+
+SContratação,              tp_CONTRat,1,cnv/cd_tp_contratacao.cnv
+SSegmentação,              tp_SEGMENT,1,cnv/cd_segmentacao_plano.cnv
+SAbrang. Geográfica,       TP_abrange,1,cnv/cd_abrg_geo.cnv
+SÉpoca do Contrato,        TP_VIGENCI,1,cnv/tp_vigencia_plano.cnv
+SInd. livre escolha,       lg_livre_e,1,cnv/lg_livre_escolha.cnv
+SModalidade,               MODALIDADE,1,cnv/modalidade.cnv

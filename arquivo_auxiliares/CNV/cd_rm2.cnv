@@ -1,0 +1,39 @@
+37 4 L
+; Utilizada na consulta de operadoras ativas
+      1	  1501 Belém                                        1501
+      2	  2101 São Luís                                     2101
+      3	  2201 Grande Teresina                              2201
+      4	  2301 Fortaleza                                    2301
+      5	  2401 Natal                                        2401
+      6	  2601 Recife                                       2601
+      7	  2601 Pólo Petrolina/PE e Juazeiro/BA              2602
+      8	  2701 Maceió                                       2701
+      9	  2901 Salvador                                     2901
+     10	  3101 Belo Horizonte                               3101
+     11	  3102 Belo Horizonte - Colar Metropolitano         3102
+     12	  3103 Vale do Aço                                  3103
+     13	  3104 Vale do Aço - Colar Metropolitano            3104
+     14	  3201 Vitória                                      3201
+     15	  3301 Rio de Janeiro                               3301
+     16	  3501 São Paulo                                    3501
+     17	  3502 Baixada Santista                             3502
+     18	  3503 Campinas                                     3503
+     19	  4101 Curitiba                                     4101
+     20	  4102 Londrina                                     4102
+     21	  4103 Maringá                                      4103
+     22	  4201 Florianópolis                                4201
+     23	  4202 Florianópolis - Área de Expansão             4202
+     24	  4203 Vale do Itajaí                               4203
+     25	  4204 Vale do Itajaí - área de expansão            4204
+     26	  4205 Norte/Nordeste Catarinense                   4205
+     27	  4206 Norte/Nordeste Catarinense - Expansão        4206
+     28	  4207 Foz do Rio Itajaí                            4207
+     29	  4208 Foz do Rio Itajaí - Área de Expansão         4208
+     30	  4209 Região Carbonífera                           4209
+     31	  4210 Região Carbonífera - Área de Expansão        4210
+     32	  4211 Tubarão                                      4211
+     33	  4212 Tubarão - Área de Expansão                   4212
+     34	  4301 Porto Alegre                                 4301
+     35	  5201 Goiânia                                      5201
+     36	  5301 Entorno de Brasília                          5301
+     37   Fora de Região Metropolitana                      0000 

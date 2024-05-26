@@ -1,0 +1,17 @@
+13 2 L
+;-----------------------------------------------------------
+; Tabela para converter a faixa etária - Taxa de cobertura
+;-----------------------------------------------------------
+      1  Até 1 ano                                          00
+      2  1 a 4 anos                                         01
+      3  5 a 9 anos                                         02
+      4  10 a 14 anos                                       03
+      5  15 a 19 anos                                       04
+      6  20 a 29 anos                                       05
+      7  30 a 39 anos                                       06
+      8  40 a 49 anos                                       07
+      9  50 a 59 anos                                       08
+     10  60 a 69 anos                                       09
+     11  70 a 79 anos                                       10
+     12  80 anos ou mais                                    11
+     13  Inconsistente                                      99

@@ -1,0 +1,190 @@
+     12  6                                                        
+      1  1501 Reg.Metr.Belém                                150080
+      1  1501 Reg.Metr.Belém                                150140
+      1  1501 Reg.Metr.Belém                                150150
+      1  1501 Reg.Metr.Belém                                150442
+      1  1501 Reg.Metr.Belém                                150635
+      1  1501 Reg.Metr.Belém                                150660
+      2  2301 Reg.Metr.Fortaleza                            230100
+      2  2301 Reg.Metr.Fortaleza                            230370
+      2  2301 Reg.Metr.Fortaleza                            230428
+      2  2301 Reg.Metr.Fortaleza                            230440
+      2  2301 Reg.Metr.Fortaleza                            230495
+      2  2301 Reg.Metr.Fortaleza                            230625
+      2  2301 Reg.Metr.Fortaleza                            230765
+      2  2301 Reg.Metr.Fortaleza                            230770
+      2  2301 Reg.Metr.Fortaleza                            230970
+      3  2401 Reg.Metr.Natal                                240260
+      3  2401 Reg.Metr.Natal                                240325
+      3  2401 Reg.Metr.Natal                                240360
+      3  2401 Reg.Metr.Natal                                240710
+      3  2401 Reg.Metr.Natal                                240810
+      3  2401 Reg.Metr.Natal                                241200
+      4  2601 Reg.Metr.Recife                               260005
+      4  2601 Reg.Metr.Recife                               260105
+      4  2601 Reg.Metr.Recife                               260290
+      4  2601 Reg.Metr.Recife                               260345
+      4  2601 Reg.Metr.Recife                               260680
+      4  2601 Reg.Metr.Recife                               260720
+      4  2601 Reg.Metr.Recife                               260760
+      4  2601 Reg.Metr.Recife                               260775
+      4  2601 Reg.Metr.Recife                               260790
+      4  2601 Reg.Metr.Recife                               260940
+      4  2601 Reg.Metr.Recife                               260960
+      4  2601 Reg.Metr.Recife                               261070
+      4  2601 Reg.Metr.Recife                               261160
+      4  2601 Reg.Metr.Recife                               261370
+      5  2901 Reg.Metr.Salvador                             290570
+      5  2901 Reg.Metr.Salvador                             290650
+      5  2901 Reg.Metr.Salvador                             291005
+      5  2901 Reg.Metr.Salvador                             291610
+      5  2901 Reg.Metr.Salvador                             291920
+      5  2901 Reg.Metr.Salvador                             291992
+      5  2901 Reg.Metr.Salvador                             292740
+      5  2901 Reg.Metr.Salvador                             292920
+      5  2901 Reg.Metr.Salvador                             293070
+      5  2901 Reg.Metr.Salvador                             293320
+      6  3101 Reg.Metr.B.Horizonte                          310620
+      6  3101 Reg.Metr.B.Horizonte                          310670
+      6  3101 Reg.Metr.B.Horizonte                          310900
+      6  3101 Reg.Metr.B.Horizonte                          311000
+      6  3101 Reg.Metr.B.Horizonte                          311787
+      6  3101 Reg.Metr.B.Horizonte                          311860
+      6  3101 Reg.Metr.B.Horizonte                          312410
+      6  3101 Reg.Metr.B.Horizonte                          312980
+      6  3101 Reg.Metr.B.Horizonte                          313010
+      6  3101 Reg.Metr.B.Horizonte                          313665
+      6  3101 Reg.Metr.B.Horizonte                          313760
+      6  3101 Reg.Metr.B.Horizonte                          314015
+      6  3101 Reg.Metr.B.Horizonte                          314070
+      6  3101 Reg.Metr.B.Horizonte                          314480
+      6  3101 Reg.Metr.B.Horizonte                          314930
+      6  3101 Reg.Metr.B.Horizonte                          315390
+      6  3101 Reg.Metr.B.Horizonte                          315460
+      6  3101 Reg.Metr.B.Horizonte                          315480
+      6  3101 Reg.Metr.B.Horizonte                          315670
+      6  3101 Reg.Metr.B.Horizonte                          315780
+      6  3101 Reg.Metr.B.Horizonte                          316292
+      6  3101 Reg.Metr.B.Horizonte                          316295
+      6  3101 Reg.Metr.B.Horizonte                          316553
+      6  3101 Reg.Metr.B.Horizonte                          317120
+      7  3201 Reg.Metr.Vitória                              320130
+      7  3201 Reg.Metr.Vitória                              320500
+      7  3201 Reg.Metr.Vitória                              320510
+      7  3201 Reg.Metr.Vitória                              320520
+      7  3201 Reg.Metr.Vitória                              320530
+      8  3301 Reg.Metr.R.Janeiro                            330045
+      8  3301 Reg.Metr.R.Janeiro                            330170
+      8  3301 Reg.Metr.R.Janeiro                            330185
+      8  3301 Reg.Metr.R.Janeiro                            330190
+      8  3301 Reg.Metr.R.Janeiro                            330200
+      8  3301 Reg.Metr.R.Janeiro                            330227
+      8  3301 Reg.Metr.R.Janeiro                            330250
+      8  3301 Reg.Metr.R.Janeiro                            330260
+      8  3301 Reg.Metr.R.Janeiro                            330270
+      8  3301 Reg.Metr.R.Janeiro                            330320
+      8  3301 Reg.Metr.R.Janeiro                            330330
+      8  3301 Reg.Metr.R.Janeiro                            330350
+      8  3301 Reg.Metr.R.Janeiro                            330360
+      8  3301 Reg.Metr.R.Janeiro                            330414
+      8  3301 Reg.Metr.R.Janeiro                            330455
+      8  3301 Reg.Metr.R.Janeiro                            330490
+      8  3301 Reg.Metr.R.Janeiro                            330510
+      8  3301 Reg.Metr.R.Janeiro                            330555
+      8  3301 Reg.Metr.R.Janeiro                            330575
+      9  3501 Reg.Metr.São Paulo                            350390
+      9  3501 Reg.Metr.São Paulo                            350570
+      9  3501 Reg.Metr.São Paulo                            350660
+      9  3501 Reg.Metr.São Paulo                            350900
+      9  3501 Reg.Metr.São Paulo                            350920
+      9  3501 Reg.Metr.São Paulo                            351060
+      9  3501 Reg.Metr.São Paulo                            351300
+      9  3501 Reg.Metr.São Paulo                            351380
+      9  3501 Reg.Metr.São Paulo                            351500
+      9  3501 Reg.Metr.São Paulo                            351510
+      9  3501 Reg.Metr.São Paulo                            351570
+      9  3501 Reg.Metr.São Paulo                            351630
+      9  3501 Reg.Metr.São Paulo                            351640
+      9  3501 Reg.Metr.São Paulo                            351830
+      9  3501 Reg.Metr.São Paulo                            351880
+      9  3501 Reg.Metr.São Paulo                            352220
+      9  3501 Reg.Metr.São Paulo                            352250
+      9  3501 Reg.Metr.São Paulo                            352310
+      9  3501 Reg.Metr.São Paulo                            352500
+      9  3501 Reg.Metr.São Paulo                            352620
+      9  3501 Reg.Metr.São Paulo                            352850
+      9  3501 Reg.Metr.São Paulo                            352940
+      9  3501 Reg.Metr.São Paulo                            353060
+      9  3501 Reg.Metr.São Paulo                            353440
+      9  3501 Reg.Metr.São Paulo                            353910
+      9  3501 Reg.Metr.São Paulo                            353980
+      9  3501 Reg.Metr.São Paulo                            354330
+      9  3501 Reg.Metr.São Paulo                            354410
+      9  3501 Reg.Metr.São Paulo                            354500
+      9  3501 Reg.Metr.São Paulo                            354680
+      9  3501 Reg.Metr.São Paulo                            354730
+      9  3501 Reg.Metr.São Paulo                            354780
+      9  3501 Reg.Metr.São Paulo                            354870
+      9  3501 Reg.Metr.São Paulo                            354880
+      9  3501 Reg.Metr.São Paulo                            354995
+      9  3501 Reg.Metr.São Paulo                            355030
+      9  3501 Reg.Metr.São Paulo                            355250
+      9  3501 Reg.Metr.São Paulo                            355280
+      9  3501 Reg.Metr.São Paulo                            355645
+     10  3502 Reg.Metr.Baix.Sant.                           350635
+     10  3502 Reg.Metr.Baix.Sant.                           351350
+     10  3502 Reg.Metr.Baix.Sant.                           351870
+     10  3502 Reg.Metr.Baix.Sant.                           352210
+     10  3502 Reg.Metr.Baix.Sant.                           353110
+     10  3502 Reg.Metr.Baix.Sant.                           353760
+     10  3502 Reg.Metr.Baix.Sant.                           354100
+     10  3502 Reg.Metr.Baix.Sant.                           354850
+     10  3502 Reg.Metr.Baix.Sant.                           355100
+     11  4101 Reg.Metr.Curitiba                             410020
+     11  4101 Reg.Metr.Curitiba                             410040
+     11  4101 Reg.Metr.Curitiba                             410180
+     11  4101 Reg.Metr.Curitiba                             410230
+     11  4101 Reg.Metr.Curitiba                             410310
+     11  4101 Reg.Metr.Curitiba                             410400
+     11  4101 Reg.Metr.Curitiba                             410420
+     11  4101 Reg.Metr.Curitiba                             410425
+     11  4101 Reg.Metr.Curitiba                             410520
+     11  4101 Reg.Metr.Curitiba                             410580
+     11  4101 Reg.Metr.Curitiba                             410620
+     11  4101 Reg.Metr.Curitiba                             410690
+     11  4101 Reg.Metr.Curitiba                             410765
+     11  4101 Reg.Metr.Curitiba                             411125
+     11  4101 Reg.Metr.Curitiba                             411430
+     11  4101 Reg.Metr.Curitiba                             411915
+     11  4101 Reg.Metr.Curitiba                             411950
+     11  4101 Reg.Metr.Curitiba                             412080
+     11  4101 Reg.Metr.Curitiba                             412120
+     11  4101 Reg.Metr.Curitiba                             412220
+     11  4101 Reg.Metr.Curitiba                             412550
+     11  4101 Reg.Metr.Curitiba                             412760
+     11  4101 Reg.Metr.Curitiba                             412788
+     11  4101 Reg.Metr.Curitiba                             412863
+     12  4301 Reg.Metr.P.Alegre                             430060
+     12  4301 Reg.Metr.P.Alegre                             430310
+     12  4301 Reg.Metr.P.Alegre                             430390
+     12  4301 Reg.Metr.P.Alegre                             430460
+     12  4301 Reg.Metr.P.Alegre                             430535
+     12  4301 Reg.Metr.P.Alegre                             430640
+     12  4301 Reg.Metr.P.Alegre                             430676
+     12  4301 Reg.Metr.P.Alegre                             430760
+     12  4301 Reg.Metr.P.Alegre                             430770
+     12  4301 Reg.Metr.P.Alegre                             430905
+     12  4301 Reg.Metr.P.Alegre                             430920
+     12  4301 Reg.Metr.P.Alegre                             430930
+     12  4301 Reg.Metr.P.Alegre                             431080
+     12  4301 Reg.Metr.P.Alegre                             431306
+     12  4301 Reg.Metr.P.Alegre                             431340
+     12  4301 Reg.Metr.P.Alegre                             431405
+     12  4301 Reg.Metr.P.Alegre                             431480
+     12  4301 Reg.Metr.P.Alegre                             431490
+     12  4301 Reg.Metr.P.Alegre                             431870
+     12  4301 Reg.Metr.P.Alegre                             431990
+     12  4301 Reg.Metr.P.Alegre                             432000
+     12  4301 Reg.Metr.P.Alegre                             432200
+     12  4301 Reg.Metr.P.Alegre                             432300
+

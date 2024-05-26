@@ -1,0 +1,16 @@
+11 2 L
+;-----------------------------------------------------------
+; Tabela para converter a faixa etária - ANS_DW.TD_FAIXA_ETARIA RN63
+;-----------------------------------------------------------
+      1  00 a 18 anos                                       01
+      2  19 a 23 anos                                       02
+      3  24 a 28 anos                                       03
+      4  29 a 33 anos                                       04
+      5  34 a 38 anos                                       05
+      6  39 a 43 anos                                       06
+      7  44 a 48 anos                                       07
+      8  49 a 53 anos                                       08
+      9  54 a 58 anos                                       09
+     10  59 anos ou mais                                    10
+     11  Inconsistente                                      99
+

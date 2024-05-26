@@ -1,0 +1,24 @@
+;Reclamações de beneficiários
+Adados/tb_re_*.dbf
+
+H<script language="JavaScript" src="../header.js"></script>
+H<script language="JavaScript" src="../header2.js"></script>
+F<script language="JavaScript" src="../footer_c_reclamacoes.js"></script>
+F<script language="JavaScript" src="../footer.js"></script>
+         
+
+EReclamação,               QT_reclama ,CMPT
+
+TCompetência,              CMPT       ,1,cnv/cd_competencia.cnv
+LOperadora,                CD_OPERADO ,,cnv/cd_operadora.cnv
+TModalidade,               MODALIDADE ,1,cnv/modalidade.cnv
+TTipo de contratação,      cd_contr   ,1,cnv/cd_tp_contratacao4.cnv
+TPorte da operadora,       cd_PORTE   ,1,cnv/porte_operadora_re.cnv
+TUF,                       sg_UF      ,1,cnv/cd_uf_brasil_s.cnv
+
+
+SOperadora,                CD_OPERADO ,1,cnv/cd_operadora.cnv
+SModalidade,               MODALIDADE ,1,cnv/modalidade.cnv
+STipo de contratação,      cd_contr   ,1,cnv/cd_tp_contratacao4.cnv
+SPorte da operadora,       cd_PORTE   ,1,cnv/porte_operadora_re.cnv
+SUF,                       sg_UF      ,1,cnv/cd_uf_brasil_s.cnv

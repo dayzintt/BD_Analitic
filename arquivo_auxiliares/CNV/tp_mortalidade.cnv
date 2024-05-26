@@ -1,0 +1,97 @@
+96 5 
+      1  Cólera                                             00001
+      2  Diarréia e gastroenterite de origem infecciosa pre 00002
+      3  Outras doenças infecciosas intestinais             00003
+      4  Tuberculose respiratória                           00004
+      5  Outras tuberculoses                                00005
+      6  Peste                                              00006
+      7  Tétano                                             00007
+      8  Difteria                                           00008
+      9  Coqueluche                                         00009
+     10  Infecção meningocócica                             00010
+     11  Septicemia                                         00011
+     12  Infecções com transmissão predominantemente sexual 00012
+     13  Poliomielite aguda                                 00013
+     14  Raiva                                              00014
+     15  Febre amarela                                      00015
+     16  Outras febres por arborvírus e febres hemorrágicas 00016
+     17  Sarampo                                            00017
+     18  Hepatite viral                                     00018
+     19  Doença pelo vírus da imunodeficiência humana [HIV] 00019
+     20  Malária                                            00020
+     21  Leishmaniose                                       00021
+     22  Tripanossomíase                                    00022
+     23  Esquistossomose                                    00023
+     24  Restante de algumas doenças infecciosas e parasitá 00024
+     25  Neoplasia maligna do lábio, cavidade oral e faring 00025
+     26  Neoplasia maligna do esôfago                       00026
+     27  Neoplasia maligna do estômago                      00027
+     28  Neoplasia maligna de cólon, reto e ânus            00028
+     29  Neoplasia maligna do fígado e das vias biliais int 00029
+     30  Neoplasia maligna do pâncreas                      00030
+     31  Neoplasia maligna da laringe                       00031
+     32  Neoplasia maligna da traquéia, dos brônquios e dos 00032
+     33  Neoplasia maligna da pele                          00033
+     34  Neoplasia maligna da mama                          00034
+     35  Neoplasia maligna do colo do útero                 00035
+     36  Neoplasia maligna de outras partes e de partes não 00036
+     37  Neoplasia maligna do ovário                        00037
+     38  Neoplasia maligna da próstata                      00038
+     39  Neoplasia maligna da bexiga                        00039
+     40  Neoplasia maligna as meninges, do encéfalo e de ou 00040
+     41  Linfoma não-Hodgkin                                00041
+     42  Mieloma múltiplo e neoplasias malignas de plasmóci 00042
+     43  Leucemia                                           00043
+     44  Restante de neoplasias malignas                    00044
+     45  Restante de neoplasias                             00045
+     46  Anemias                                            00046
+     47  Restante das doenças do sangue e dos órgãos hemato 00047
+     48  Diabetes mellitus                                  00048
+     49  Desnutrição                                        00049
+     50  Restante de doenças endócrinas, nutricionais e met 00050
+     51  Transtornos mentais e comportamentais devidos ao u 00051
+     52  Restante dos transtornos mentais e comportamentais 00052
+     53  Meningite                                          00053
+     54  Doença de Alzheimer                                00054
+     55  Restante das doenças do sistema nervoso            00055
+     56  Doenças dos olhos e anexos                         00056
+     57  Doenças do ouvido e da apófise mastóide            00057
+     58  Febre reumática aguda e doença reumática crônica d 00058
+     59  Doenças hipertensivas                              00059
+     60  Doenças isquêmicas do coração                      00060
+     61  Outras doenças cardíacas                           00061
+     62  Doenças cerebrovasculares                          00062
+     63  Aterosclerose                                      00063
+     64  Restante de doenças do aparelho circulatório       00064
+     65  Influenza [gripe]                                  00065
+     66  Pneumonia                                          00066
+     67  Outras infecções agudas das vias aéreas inferiores 00067
+     68  Doenças crônicas das vias aéreas inferiores        00068
+     69  Restante de doença do aparelho respiratório        00069
+     70  Úlcera gástrica e duodenal                         00070
+     71  Doenças do fígado                                  00071
+     72  Restante das doenças do aparelho digestivo         00072
+     73  Doenças da pele e de tecido subcutâneo             00073
+     74  Doenças do sistema osteomuscular e do tecido conju 00074
+     75  Doenças glomerulares e doenças renais túbulo-inter 00075
+     76  Restante de doenças do aparelho geniturinário      00076
+     77  Gravidez que termina em aborto                     00077
+     78  Outras mortes obstétricas diretas                  00078
+     79  Mortes obstétricas indiretas                       00079
+     80  Restante de gravidez, parto e puerpério            00080
+     81  Algumas afecções originadas no período perinatal   00081
+     82  Malformações congênitas, deformidades e anomalias  00082
+     83  Sintomas, sinais e achados anormais de exames clín 00083
+     84  Acidentes de transporte                            00084
+     85  Quedas                                             00085
+     86  Afogamento e submersão acidentamente               00086
+     87  Exposição à fumaça, ao fogo e às chamas            00087
+     88  Envenenamento, intoxicação por ou exposição a subs 00088
+     89  Lesões autoprovocadas voluntariamente              00089
+     90  Agressões                                          00090
+     91  Todas as outras causas externas                    00091
+     92  Sem descrição na Lista de Tabulação de Mortalidade 99999
+     93  Doenças do sistema nervoso                         46121
+     94  Doenças do aparelho digestivo                      46122
+     95  Doenças do aparelho geniturinário                  46123
+     96  Gravidez, parto e puerpério                        46124

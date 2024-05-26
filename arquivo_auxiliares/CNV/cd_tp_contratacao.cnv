@@ -1,0 +1,10 @@
+7 1
+; Tabela de Descrição do tipo de contratação do Plano - Produção: dipro.ta_tipo_contratacao@ansora01 
+;
+      1	 Individual ou familiar                             1
+      2	 Coletivo empresarial                               2
+      3	 Coletivo por adesão                                3
+      4	 Individual ou Familiar + Coletivo Empresarial      4
+      5	 Individual ou Familiar + Coletivo por Adesão       5
+      6	 Coletivo Empresarial + Coletivo por Adesão         6
+      7	 Individual + Col. Empresarial + Col. por Adesão    7

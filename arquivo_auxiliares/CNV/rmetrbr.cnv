@@ -1,0 +1,519 @@
+     44  6                                                                                    
+      1  1301 Manaus - AM                                   130110
+      1  1301 Manaus - AM                                   130185
+      1  1301 Manaus - AM                                   130320
+      1  1301 Manaus - AM                                   130353
+      1  1301 Manaus - AM                                   130356
+      1  1301 Manaus - AM                                   130190
+      1  1301 Manaus - AM                                   130250
+      1  1301 Manaus - AM                                   130260
+      2  1501 Belém - PA                                    150442
+      2  1501 Belém - PA                                    150635
+      2  1501 Belém - PA                                    150140
+      2  1501 Belém - PA                                    150150
+      2  1501 Belém - PA                                    150080
+      3  1601 Macapá - AP                                   160030
+      3  1601 Macapá - AP                                   160060
+      4  2101 Grande São Luís - MA                          211130
+      4  2101 Grande São Luís - MA                          210750
+      4  2101 Grande São Luís - MA                          210945
+      4  2101 Grande São Luís - MA                          211120
+      5  2201 RIDE da Grande Teresina - PI/MA               220558
+      5  2201 RIDE da Grande Teresina - PI/MA               220555
+      5  2201 RIDE da Grande Teresina - PI/MA               220550
+      5  2201 RIDE da Grande Teresina - PI/MA               220040
+      5  2201 RIDE da Grande Teresina - PI/MA               220630
+      5  2201 RIDE da Grande Teresina - PI/MA               220640
+      5  2201 RIDE da Grande Teresina - PI/MA               211220
+      5  2201 RIDE da Grande Teresina - PI/MA               220330
+      5  2201 RIDE da Grande Teresina - PI/MA               221110
+      5  2201 RIDE da Grande Teresina - PI/MA               220273
+      5  2201 RIDE da Grande Teresina - PI/MA               220160
+      5  2201 RIDE da Grande Teresina - PI/MA               220325
+      5  2201 RIDE da Grande Teresina - PI/MA               220672
+      5  2201 RIDE da Grande Teresina - PI/MA               221100
+      6  2301 Fortaleza - CE                                230970
+      6  2301 Fortaleza - CE                                230770
+      6  2301 Fortaleza - CE                                230765
+      6  2301 Fortaleza - CE                                230100
+      6  2301 Fortaleza - CE                                230625
+      6  2301 Fortaleza - CE                                231240
+      6  2301 Fortaleza - CE                                230440
+      6  2301 Fortaleza - CE                                230960
+      6  2301 Fortaleza - CE                                230395
+      6  2301 Fortaleza - CE                                230370
+      6  2301 Fortaleza - CE                                230428
+      6  2301 Fortaleza - CE                                230495
+      6  2301 Fortaleza - CE                                230523
+      7  2401 Natal - RN                                    240820
+      7  2401 Natal - RN                                    240810
+      7  2401 Natal - RN                                    240360
+      7  2401 Natal - RN                                    240260
+      7  2401 Natal - RN                                    240325
+      7  2401 Natal - RN                                    240780
+      7  2401 Natal - RN                                    241220
+      7  2401 Natal - RN                                    241200
+      7  2401 Natal - RN                                    240710
+      8  2501 João Pessoa - PB                              250890
+      8  2501 João Pessoa - PB                              250320
+      8  2501 João Pessoa - PB                              251370
+      8  2501 João Pessoa - PB                              250750
+      8  2501 João Pessoa - PB                              250490
+      8  2501 João Pessoa - PB                              250860
+      8  2501 João Pessoa - PB                              251290
+      8  2501 João Pessoa - PB                              250180
+      8  2501 João Pessoa - PB                              250460
+      9  2601 Recife - PE                                   260105
+      9  2601 Recife - PE                                   261070
+      9  2601 Recife - PE                                   261160
+      9  2601 Recife - PE                                   260290
+      9  2601 Recife - PE                                   260345
+      9  2601 Recife - PE                                   260680
+      9  2601 Recife - PE                                   260720
+      9  2601 Recife - PE                                   260005
+      9  2601 Recife - PE                                   261370
+      9  2601 Recife - PE                                   260760
+      9  2601 Recife - PE                                   260775
+      9  2601 Recife - PE                                   260790
+      9  2601 Recife - PE                                   260940
+      9  2601 Recife - PE                                   260960
+     10  2602 RIDE do Pólo Petrolina e Juazeiro - PE/BA     293077
+     10  2602 RIDE do Pólo Petrolina e Juazeiro - PE/BA     290720
+     10  2602 RIDE do Pólo Petrolina e Juazeiro - PE/BA     260980
+     10  2602 RIDE do Pólo Petrolina e Juazeiro - PE/BA     260875
+     10  2602 RIDE do Pólo Petrolina e Juazeiro - PE/BA     291840
+     10  2602 RIDE do Pólo Petrolina e Juazeiro - PE/BA     261260
+     10  2602 RIDE do Pólo Petrolina e Juazeiro - PE/BA     261110
+     10  2602 RIDE do Pólo Petrolina e Juazeiro - PE/BA     290990
+     11  2701 Maceió - AL                                   270060
+     11  2701 Maceió - AL                                   270770
+     11  2701 Maceió - AL                                   270790
+     11  2701 Maceió - AL                                   270890
+     11  2701 Maceió - AL                                   270470
+     11  2701 Maceió - AL                                   270520
+     11  2701 Maceió - AL                                   270690
+     11  2701 Maceió - AL                                   270050
+     11  2701 Maceió - AL                                   270430
+     11  2701 Maceió - AL                                   270220
+     11  2701 Maceió - AL                                   270644
+     12  2801 Aracaju - SE                                  280060
+     12  2801 Aracaju - SE                                  280030
+     12  2801 Aracaju - SE                                  280480
+     12  2801 Aracaju - SE                                  280670
+     13  2901 Salvador - BA                                 293320
+     13  2901 Salvador - BA                                 292950
+     13  2901 Salvador - BA                                 290570
+     13  2901 Salvador - BA                                 290650
+     13  2901 Salvador - BA                                 291920
+     13  2901 Salvador - BA                                 293070
+     13  2901 Salvador - BA                                 291610
+     13  2901 Salvador - BA                                 292920
+     13  2901 Salvador - BA                                 291005
+     13  2901 Salvador - BA                                 292100
+     13  2901 Salvador - BA                                 292740
+     13  2901 Salvador - BA                                 291992
+     14  3101 Belo Horizonte - MG                           316830
+     14  3101 Belo Horizonte - MG                           314930
+     14  3101 Belo Horizonte - MG                           310620
+     14  3101 Belo Horizonte - MG                           315530
+     14  3101 Belo Horizonte - MG                           315480
+     14  3101 Belo Horizonte - MG                           315460
+     14  3101 Belo Horizonte - MG                           315390
+     14  3101 Belo Horizonte - MG                           315780
+     14  3101 Belo Horizonte - MG                           315670
+     14  3101 Belo Horizonte - MG                           310500
+     14  3101 Belo Horizonte - MG                           316295
+     14  3101 Belo Horizonte - MG                           316292
+     14  3101 Belo Horizonte - MG                           316553
+     14  3101 Belo Horizonte - MG                           314480
+     14  3101 Belo Horizonte - MG                           317120
+     14  3101 Belo Horizonte - MG                           314015
+     14  3101 Belo Horizonte - MG                           311787
+     14  3101 Belo Horizonte - MG                           314070
+     14  3101 Belo Horizonte - MG                           311250
+     14  3101 Belo Horizonte - MG                           311000
+     14  3101 Belo Horizonte - MG                           312980
+     14  3101 Belo Horizonte - MG                           310900
+     14  3101 Belo Horizonte - MG                           310670
+     14  3101 Belo Horizonte - MG                           313460
+     14  3101 Belo Horizonte - MG                           313660
+     14  3101 Belo Horizonte - MG                           313665
+     14  3101 Belo Horizonte - MG                           313760
+     14  3101 Belo Horizonte - MG                           312410
+     14  3101 Belo Horizonte - MG                           312600
+     14  3101 Belo Horizonte - MG                           311860
+     14  3101 Belo Horizonte - MG                           313220
+     14  3101 Belo Horizonte - MG                           314110
+     14  3101 Belo Horizonte - MG                           313010
+     14  3101 Belo Horizonte - MG                           313370
+     15  3102 Belo Horizonte - colar metropolitano - MG     315720
+     15  3102 Belo Horizonte - colar metropolitano - MG     314230
+     15  3102 Belo Horizonte - colar metropolitano - MG     312640
+     15  3102 Belo Horizonte - colar metropolitano - MG     315360
+     15  3102 Belo Horizonte - colar metropolitano - MG     314710
+     15  3102 Belo Horizonte - colar metropolitano - MG     313190
+     15  3102 Belo Horizonte - colar metropolitano - MG     310640
+     15  3102 Belo Horizonte - colar metropolitano - MG     313380
+     15  3102 Belo Horizonte - colar metropolitano - MG     310540
+     15  3102 Belo Horizonte - colar metropolitano - MG     316310
+     15  3102 Belo Horizonte - colar metropolitano - MG     312720
+     15  3102 Belo Horizonte - colar metropolitano - MG     310810
+     15  3102 Belo Horizonte - colar metropolitano - MG     313100
+     15  3102 Belo Horizonte - colar metropolitano - MG     316720
+     16  3103 Vale do Aço - MG                              316870
+     16  3103 Vale do Aço - MG                              315895
+     16  3103 Vale do Aço - MG                              311940
+     16  3103 Vale do Aço - MG                              313130
+     17  3104 Vale do Aço - colar metropolitano - MG        316770
+     17  3104 Vale do Aço - colar metropolitano - MG        310630
+     17  3104 Vale do Aço - colar metropolitano - MG        314435
+     17  3104 Vale do Aço - colar metropolitano - MG        310880
+     17  3104 Vale do Aço - colar metropolitano - MG        310925
+     17  3104 Vale do Aço - colar metropolitano - MG        312000
+     17  3104 Vale do Aço - colar metropolitano - MG        314170
+     17  3104 Vale do Aço - colar metropolitano - MG        314030
+     17  3104 Vale do Aço - colar metropolitano - MG        313115
+     17  3104 Vale do Aço - colar metropolitano - MG        313500
+     17  3104 Vale do Aço - colar metropolitano - MG        313610
+     17  3104 Vale do Aço - colar metropolitano - MG        312180
+     17  3104 Vale do Aço - colar metropolitano - MG        312250
+     17  3104 Vale do Aço - colar metropolitano - MG        316260
+     17  3104 Vale do Aço - colar metropolitano - MG        312385
+     17  3104 Vale do Aço - colar metropolitano - MG        314995
+     17  3104 Vale do Aço - colar metropolitano - MG        310050
+     17  3104 Vale do Aço - colar metropolitano - MG        310300
+     17  3104 Vale do Aço - colar metropolitano - MG        315053
+     17  3104 Vale do Aço - colar metropolitano - MG        316340
+     17  3104 Vale do Aço - colar metropolitano - MG        317057
+     17  3104 Vale do Aço - colar metropolitano - MG        312930
+     18  3201 Grande Vitória - ES                           320130
+     18  3201 Grande Vitória - ES                           320220
+     18  3201 Grande Vitória - ES                           320240
+     18  3201 Grande Vitória - ES                           320530
+     18  3201 Grande Vitória - ES                           320510
+     18  3201 Grande Vitória - ES                           320520
+     18  3201 Grande Vitória - ES                           320500
+     19  3301 Rio de Janeiro - RJ                           330414
+     19  3301 Rio de Janeiro - RJ                           330455
+     19  3301 Rio de Janeiro - RJ                           330575
+     19  3301 Rio de Janeiro - RJ                           330170
+     19  3301 Rio de Janeiro - RJ                           330490
+     19  3301 Rio de Janeiro - RJ                           330510
+     19  3301 Rio de Janeiro - RJ                           330555
+     19  3301 Rio de Janeiro - RJ                           330360
+     19  3301 Rio de Janeiro - RJ                           330185
+     19  3301 Rio de Janeiro - RJ                           330190
+     19  3301 Rio de Janeiro - RJ                           330227
+     19  3301 Rio de Janeiro - RJ                           330045
+     19  3301 Rio de Janeiro - RJ                           330250
+     19  3301 Rio de Janeiro - RJ                           330285
+     19  3301 Rio de Janeiro - RJ                           330320
+     19  3301 Rio de Janeiro - RJ                           330330
+     19  3301 Rio de Janeiro - RJ                           330350
+     20  3501 São Paulo - SP                                350390
+     20  3501 São Paulo - SP                                354330
+     20  3501 São Paulo - SP                                350570
+     20  3501 São Paulo - SP                                352310
+     20  3501 São Paulo - SP                                352250
+     20  3501 São Paulo - SP                                353980
+     20  3501 São Paulo - SP                                355250
+     20  3501 São Paulo - SP                                350920
+     20  3501 São Paulo - SP                                350900
+     20  3501 São Paulo - SP                                351380
+     20  3501 São Paulo - SP                                352940
+     20  3501 São Paulo - SP                                352850
+     20  3501 São Paulo - SP                                352620
+     20  3501 São Paulo - SP                                354880
+     20  3501 São Paulo - SP                                354870
+     20  3501 São Paulo - SP                                352220
+     20  3501 São Paulo - SP                                353440
+     20  3501 São Paulo - SP                                354500
+     20  3501 São Paulo - SP                                351060
+     20  3501 São Paulo - SP                                354680
+     20  3501 São Paulo - SP                                355645
+     20  3501 São Paulo - SP                                354410
+     20  3501 São Paulo - SP                                351300
+     20  3501 São Paulo - SP                                353060
+     20  3501 São Paulo - SP                                355280
+     20  3501 São Paulo - SP                                350660
+     20  3501 São Paulo - SP                                351830
+     20  3501 São Paulo - SP                                351880
+     20  3501 São Paulo - SP                                354995
+     20  3501 São Paulo - SP                                355030
+     20  3501 São Paulo - SP                                352500
+     20  3501 São Paulo - SP                                351500
+     20  3501 São Paulo - SP                                351510
+     20  3501 São Paulo - SP                                354730
+     20  3501 São Paulo - SP                                354780
+     20  3501 São Paulo - SP                                351570
+     20  3501 São Paulo - SP                                351630
+     20  3501 São Paulo - SP                                351640
+     20  3501 São Paulo - SP                                353910
+     21  3502 Baixada Santista - SP                         354100
+     21  3502 Baixada Santista - SP                         351870
+     21  3502 Baixada Santista - SP                         353760
+     21  3502 Baixada Santista - SP                         355100
+     21  3502 Baixada Santista - SP                         352210
+     21  3502 Baixada Santista - SP                         353110
+     21  3502 Baixada Santista - SP                         354850
+     21  3502 Baixada Santista - SP                         351350
+     21  3502 Baixada Santista - SP                         350635
+     22  3503 Campinas - SP                                 355240
+     22  3503 Campinas - SP                                 353340
+     22  3503 Campinas - SP                                 355670
+     22  3503 Campinas - SP                                 351280
+     22  3503 Campinas - SP                                 352050
+     22  3503 Campinas - SP                                 355620
+     22  3503 Campinas - SP                                 354580
+     22  3503 Campinas - SP                                 350160
+     22  3503 Campinas - SP                                 351905
+     22  3503 Campinas - SP                                 351907
+     22  3503 Campinas - SP                                 353180
+     22  3503 Campinas - SP                                 352340
+     22  3503 Campinas - SP                                 352470
+     22  3503 Campinas - SP                                 351515
+     22  3503 Campinas - SP                                 354800
+     22  3503 Campinas - SP                                 353710
+     22  3503 Campinas - SP                                 353650
+     22  3503 Campinas - SP                                 350950
+     22  3503 Campinas - SP                                 350380
+     23  4101 Curitiba - PR                                 412760
+     23  4101 Curitiba - PR                                 412788
+     23  4101 Curitiba - PR                                 412863
+     23  4101 Curitiba - PR                                 412550
+     23  4101 Curitiba - PR                                 412220
+     23  4101 Curitiba - PR                                 411950
+     23  4101 Curitiba - PR                                 411125
+     23  4101 Curitiba - PR                                 410690
+     23  4101 Curitiba - PR                                 410400
+     23  4101 Curitiba - PR                                 410420
+     23  4101 Curitiba - PR                                 410425
+     23  4101 Curitiba - PR                                 411430
+     23  4101 Curitiba - PR                                 411320
+     23  4101 Curitiba - PR                                 410765
+     23  4101 Curitiba - PR                                 412120
+     23  4101 Curitiba - PR                                 412080
+     23  4101 Curitiba - PR                                 410180
+     23  4101 Curitiba - PR                                 410230
+     23  4101 Curitiba - PR                                 410310
+     23  4101 Curitiba - PR                                 411915
+     23  4101 Curitiba - PR                                 410020
+     23  4101 Curitiba - PR                                 410030
+     23  4101 Curitiba - PR                                 410040
+     23  4101 Curitiba - PR                                 410520
+     23  4101 Curitiba - PR                                 410580
+     23  4101 Curitiba - PR                                 410620
+     24  4102 Londrina - PR                                 410370
+     24  4102 Londrina - PR                                 412667
+     24  4102 Londrina - PR                                 411370
+     24  4102 Londrina - PR                                 412240
+     24  4102 Londrina - PR                                 410980
+     24  4102 Londrina - PR                                 412650
+     24  4102 Londrina - PR                                 410280
+     24  4102 Londrina - PR                                 411270
+     25  4103 Maringá - PR                                  410115
+     25  4103 Maringá - PR                                  411750
+     25  4103 Maringá - PR                                  411480
+     25  4103 Maringá - PR                                  411000
+     25  4103 Maringá - PR                                  412625
+     25  4103 Maringá - PR                                  411520
+     25  4103 Maringá - PR                                  411420
+     25  4103 Maringá - PR                                  411410
+     26  4201 RM Florianópolis - núcleo metropolitano - SC  420060
+     26  4201 RM Florianópolis - núcleo metropolitano - SC  420600
+     26  4201 RM Florianópolis - núcleo metropolitano - SC  421570
+     26  4201 RM Florianópolis - núcleo metropolitano - SC  420540
+     26  4201 RM Florianópolis - núcleo metropolitano - SC  421190
+     26  4201 RM Florianópolis - núcleo metropolitano - SC  421725
+     26  4201 RM Florianópolis - núcleo metropolitano - SC  421660
+     26  4201 RM Florianópolis - núcleo metropolitano - SC  420230
+     26  4201 RM Florianópolis - núcleo metropolitano - SC  420120
+     27  4202 RM Florianópolis - área de expansão - SC      420090
+     27  4202 RM Florianópolis - área de expansão - SC      421590
+     27  4202 RM Florianópolis - área de expansão - SC      420070
+     27  4202 RM Florianópolis - área de expansão - SC      420110
+     27  4202 RM Florianópolis - área de expansão - SC      421020
+     27  4202 RM Florianópolis - área de expansão - SC      421150
+     27  4202 RM Florianópolis - área de expansão - SC      420570
+     27  4202 RM Florianópolis - área de expansão - SC      421630
+     27  4202 RM Florianópolis - área de expansão - SC      421430
+     27  4202 RM Florianópolis - área de expansão - SC      421800
+     27  4202 RM Florianópolis - área de expansão - SC      421230
+     27  4202 RM Florianópolis - área de expansão - SC      420370
+     27  4202 RM Florianópolis - área de expansão - SC      420980
+     28  4203 RM Vale do Itajaí - núcleo metropolitano - S  421820
+     28  4203 RM Vale do Itajaí - núcleo metropolitano - S  421320
+     28  4203 RM Vale do Itajaí - núcleo metropolitano - S  420590
+     28  4203 RM Vale do Itajaí - núcleo metropolitano - S  420750
+     28  4203 RM Vale do Itajaí - núcleo metropolitano - S  420240
+     29  4204 RM Vale do Itajaí - área de expansão - SC     420630
+     29  4204 RM Vale do Itajaí - área de expansão - SC     420710
+     29  4204 RM Vale do Itajaí - área de expansão - SC     421510
+     29  4204 RM Vale do Itajaí - área de expansão - SC     420220
+     29  4204 RM Vale do Itajaí - área de expansão - SC     420290
+     29  4204 RM Vale do Itajaí - área de expansão - SC     421470
+     29  4204 RM Vale do Itajaí - área de expansão - SC     420515
+     29  4204 RM Vale do Itajaí - área de expansão - SC     420125
+     29  4204 RM Vale do Itajaí - área de expansão - SC     420170
+     29  4204 RM Vale do Itajaí - área de expansão - SC     420270
+     29  4204 RM Vale do Itajaí - área de expansão - SC     421000
+     30  4205 RM Norte/Nordeste  - núcleo metropolitano -   420910
+     30  4205 RM Norte/Nordeste  - núcleo metropolitano -   420130
+     31  4206 RM Norte/Nordeste - área de expansão - SC     421580
+     31  4206 RM Norte/Nordeste - área de expansão - SC     421620
+     31  4206 RM Norte/Nordeste - área de expansão - SC     420650
+     31  4206 RM Norte/Nordeste - área de expansão - SC     421220
+     31  4206 RM Norte/Nordeste - área de expansão - SC     421110
+     31  4206 RM Norte/Nordeste - área de expansão - SC     421500
+     31  4206 RM Norte/Nordeste - área de expansão - SC     421060
+     31  4206 RM Norte/Nordeste - área de expansão - SC     421010
+     31  4206 RM Norte/Nordeste - área de expansão - SC     420890
+     31  4206 RM Norte/Nordeste - área de expansão - SC     420845
+     31  4206 RM Norte/Nordeste - área de expansão - SC     420810
+     31  4206 RM Norte/Nordeste - área de expansão - SC     421635
+     31  4206 RM Norte/Nordeste - área de expansão - SC     420450
+     31  4206 RM Norte/Nordeste - área de expansão - SC     421740
+     31  4206 RM Norte/Nordeste - área de expansão - SC     420580
+     31  4206 RM Norte/Nordeste - área de expansão - SC     420205
+     31  4206 RM Norte/Nordeste - área de expansão - SC     420330
+     31  4206 RM Norte/Nordeste - área de expansão - SC     420210
+     32  4207 RM Foz do Rio Itajaí - núcleo metropolitano   420200
+     32  4207 RM Foz do Rio Itajaí - núcleo metropolitano   421250
+     32  4207 RM Foz do Rio Itajaí - núcleo metropolitano   420320
+     32  4207 RM Foz do Rio Itajaí - núcleo metropolitano   421130
+     32  4207 RM Foz do Rio Itajaí - núcleo metropolitano   420820
+     33  4208 RM Foz do Rio Itajaí - área de expansão - SC  420830
+     33  4208 RM Foz do Rio Itajaí - área de expansão - SC  420245
+     33  4208 RM Foz do Rio Itajaí - área de expansão - SC  421350
+     33  4208 RM Foz do Rio Itajaí - área de expansão - SC  421280
+     34  4209 RM Carbonífera - núcleo metropolitano - SC    420700
+     34  4209 RM Carbonífera - núcleo metropolitano - SC    420460
+     34  4209 RM Carbonífera - núcleo metropolitano - SC    421760
+     34  4209 RM Carbonífera - núcleo metropolitano - SC    420425
+     34  4209 RM Carbonífera - núcleo metropolitano - SC    420545
+     34  4209 RM Carbonífera - núcleo metropolitano - SC    421160
+     34  4209 RM Carbonífera - núcleo metropolitano - SC    421120
+     35  4210 RM Carbonífera - área de expansão - SC        421900
+     35  4210 RM Carbonífera - área de expansão - SC        420960
+     35  4210 RM Carbonífera - área de expansão - SC        421835
+     36  4211 RM Tubarão - núcleo metropolitano - SC        420620
+     36  4211 RM Tubarão - núcleo metropolitano - SC        421870
+     36  4211 RM Tubarão - núcleo metropolitano - SC        420395
+     37  4212 RM Tubarão - área de expansão - SC            421545
+     37  4212 RM Tubarão - área de expansão - SC            420150
+     37  4212 RM Tubarão - área de expansão - SC            420280
+     37  4212 RM Tubarão - área de expansão - SC            421700
+     37  4212 RM Tubarão - área de expansão - SC            421710
+     37  4212 RM Tubarão - área de expansão - SC            420880
+     37  4212 RM Tubarão - área de expansão - SC            420940
+     37  4212 RM Tubarão - área de expansão - SC            421170
+     37  4212 RM Tubarão - área de expansão - SC            421240
+     37  4212 RM Tubarão - área de expansão - SC            420610
+     37  4212 RM Tubarão - área de expansão - SC            421560
+     37  4212 RM Tubarão - área de expansão - SC            421490
+     37  4212 RM Tubarão - área de expansão - SC            420720
+     37  4212 RM Tubarão - área de expansão - SC            420730
+     37  4212 RM Tubarão - área de expansão - SC            421840
+     38  4301 Porto Alegre - RS                             430905
+     38  4301 Porto Alegre - RS                             430920
+     38  4301 Porto Alegre - RS                             431990
+     38  4301 Porto Alegre - RS                             432000
+     38  4301 Porto Alegre - RS                             432200
+     38  4301 Porto Alegre - RS                             430468
+     38  4301 Porto Alegre - RS                             430535
+     38  4301 Porto Alegre - RS                             432300
+     38  4301 Porto Alegre - RS                             430930
+     38  4301 Porto Alegre - RS                             431080
+     38  4301 Porto Alegre - RS                             431306
+     38  4301 Porto Alegre - RS                             431337
+     38  4301 Porto Alegre - RS                             431340
+     38  4301 Porto Alegre - RS                             430640
+     38  4301 Porto Alegre - RS                             431240
+     38  4301 Porto Alegre - RS                             431870
+     38  4301 Porto Alegre - RS                             430676
+     38  4301 Porto Alegre - RS                             432120
+     38  4301 Porto Alegre - RS                             430760
+     38  4301 Porto Alegre - RS                             430770
+     38  4301 Porto Alegre - RS                             431840
+     38  4301 Porto Alegre - RS                             430310
+     38  4301 Porto Alegre - RS                             430390
+     38  4301 Porto Alegre - RS                             430087
+     38  4301 Porto Alegre - RS                             430060
+     38  4301 Porto Alegre - RS                             430110
+     38  4301 Porto Alegre - RS                             430460
+     38  4301 Porto Alegre - RS                             431405
+     38  4301 Porto Alegre - RS                             431760
+     38  4301 Porto Alegre - RS                             431480
+     38  4301 Porto Alegre - RS                             431490
+     39  4302 Aglomeração Urbana do Litoral Norte - RS      432183
+     39  4302 Aglomeração Urbana do Litoral Norte - RS      431365
+     39  4302 Aglomeração Urbana do Litoral Norte - RS      430105
+     39  4302 Aglomeração Urbana do Litoral Norte - RS      430163
+     39  4302 Aglomeração Urbana do Litoral Norte - RS      432143
+     39  4302 Aglomeração Urbana do Litoral Norte - RS      432166
+     39  4302 Aglomeração Urbana do Litoral Norte - RS      432160
+     39  4302 Aglomeração Urbana do Litoral Norte - RS      430655
+     39  4302 Aglomeração Urbana do Litoral Norte - RS      431244
+     39  4302 Aglomeração Urbana do Litoral Norte - RS      431173
+     39  4302 Aglomeração Urbana do Litoral Norte - RS      431350
+     39  4302 Aglomeração Urbana do Litoral Norte - RS      431033
+     39  4302 Aglomeração Urbana do Litoral Norte - RS      431177
+     39  4302 Aglomeração Urbana do Litoral Norte - RS      431065
+     39  4302 Aglomeração Urbana do Litoral Norte - RS      432150
+     39  4302 Aglomeração Urbana do Litoral Norte - RS      430471
+     39  4302 Aglomeração Urbana do Litoral Norte - RS      430463
+     39  4302 Aglomeração Urbana do Litoral Norte - RS      430467
+     39  4302 Aglomeração Urbana do Litoral Norte - RS      432380
+     39  4302 Aglomeração Urbana do Litoral Norte - RS      430545
+     40  4303 Aglomeração Urbana do Nordeste - RS           430210
+     40  4303 Aglomeração Urbana do Nordeste - RS           431238
+     40  4303 Aglomeração Urbana do Nordeste - RS           430860
+     40  4303 Aglomeração Urbana do Nordeste - RS           431308
+     40  4303 Aglomeração Urbana do Nordeste - RS           430480
+     40  4303 Aglomeração Urbana do Nordeste - RS           430790
+     40  4303 Aglomeração Urbana do Nordeste - RS           431725
+     40  4303 Aglomeração Urbana do Nordeste - RS           431900
+     40  4303 Aglomeração Urbana do Nordeste - RS           430510
+     40  4303 Aglomeração Urbana do Nordeste - RS           430820
+     41  4304 Aglomeração Urbana do Sul - RS                430107
+     41  4304 Aglomeração Urbana do Sul - RS                430466
+     41  4304 Aglomeração Urbana do Sul - RS                431850
+     41  4304 Aglomeração Urbana do Sul - RS                431560
+     41  4304 Aglomeração Urbana do Sul - RS                431440
+     42  5101 RM Vale do Rio Cuiabá - MT                    510840
+     42  5101 RM Vale do Rio Cuiabá - MT                    510340
+     43  5201 Goiânia - GO                                  521450
+     43  5201 Goiânia - GO                                  522140
+     43  5201 Goiânia - GO                                  522045
+     43  5201 Goiânia - GO                                  521973
+     43  5201 Goiânia - GO                                  520880
+     43  5201 Goiânia - GO                                  520870
+     43  5201 Goiânia - GO                                  520970
+     43  5201 Goiânia - GO                                  520840
+     43  5201 Goiânia - GO                                  520330
+     43  5201 Goiânia - GO                                  520140
+     43  5201 Goiânia - GO                                  520180
+     43  5201 Goiânia - GO                                  520005
+     44  5301 RIDE do Distrito Federal e Entorno - DF/GO/M  521760
+     44  5301 RIDE do Distrito Federal e Entorno - DF/GO/M  520620
+     44  5301 RIDE do Distrito Federal e Entorno - DF/GO/M  521250
+     44  5301 RIDE do Distrito Federal e Entorno - DF/GO/M  521305
+     44  5301 RIDE do Distrito Federal e Entorno - DF/GO/M  317040
+     44  5301 RIDE do Distrito Federal e Entorno - DF/GO/M  310945
+     44  5301 RIDE do Distrito Federal e Entorno - DF/GO/M  520025
+     44  5301 RIDE do Distrito Federal e Entorno - DF/GO/M  520580
+     44  5301 RIDE do Distrito Federal e Entorno - DF/GO/M  521730
+     44  5301 RIDE do Distrito Federal e Entorno - DF/GO/M  520800
+     44  5301 RIDE do Distrito Federal e Entorno - DF/GO/M  520551
+     44  5301 RIDE do Distrito Federal e Entorno - DF/GO/M  520030
+     44  5301 RIDE do Distrito Federal e Entorno - DF/GO/M  520017
+     44  5301 RIDE do Distrito Federal e Entorno - DF/GO/M  520010
+     44  5301 RIDE do Distrito Federal e Entorno - DF/GO/M  521560
+     44  5301 RIDE do Distrito Federal e Entorno - DF/GO/M  521523
+     44  5301 RIDE do Distrito Federal e Entorno - DF/GO/M  521975
+     44  5301 RIDE do Distrito Federal e Entorno - DF/GO/M  520400
+     44  5301 RIDE do Distrito Federal e Entorno - DF/GO/M  520549
+     44  5301 RIDE do Distrito Federal e Entorno - DF/GO/M  530010
+     44  5301 RIDE do Distrito Federal e Entorno - DF/GO/M  310930
+     44  5301 RIDE do Distrito Federal e Entorno - DF/GO/M  522185
+     44  5301 RIDE do Distrito Federal e Entorno - DF/GO/M  522220

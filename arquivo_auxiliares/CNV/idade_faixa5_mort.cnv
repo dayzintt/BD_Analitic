@@ -1,0 +1,23 @@
+19 2 L
+;-----------------------------------------------------------
+; Tabela para converter a faixa etária - Mortalidade
+;-----------------------------------------------------------
+      1  Até 1 ano                                          01
+      2  1 a 4 anos                                         02
+      3  5 a 9 anos                                         03
+      4  10 a 14 anos                                       04
+      5  15 a 19 anos                                       05
+      6  20 a 24 anos                                       06
+      7  25 a 29 anos                                       07
+      8  30 a 34 anos                                       08
+      9  35 a 39 anos                                       09
+     10  40 a 44 anos                                       10
+     11  45 a 49 anos                                       11
+     12  50 a 54 anos                                       12
+     13  55 a 59 anos                                       13
+     14  60 a 64 anos                                       14
+     15  65 a 69 anos                                       15
+     16  70 a 74 anos                                       16
+     17  75 a 79 anos                                       17
+     18  80 anos ou mais                                    18
+     19  Inconsistente                                      99

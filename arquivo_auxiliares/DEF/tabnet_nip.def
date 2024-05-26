@@ -1,0 +1,34 @@
+;Demandas NIP
+Adados/tb_nip_*.dbf
+
+H<script language="JavaScript" src="../header.js"></script>
+H<script language="JavaScript" src="../header2.js"></script>
+F<script language="JavaScript" src="../footer_c_reclamacoes_nip.js"></script>
+F<script language="JavaScript" src="../footer.js"></script>
+         
+
+EDemandas NIP,   QTD_DEM,ID_CMPT
+
+TMês do atendimento,       ID_CMPT    ,1,cnv/id_cmpt_nip.cnv
+LOperadora,                OPERADORA  ,1,cnv/cd_operadora.cnv
+TModalidade,               MODAL      ,1,cnv/modalidade_nip.cnv
+TPorte da operadora,       CD_PORTE   ,1,cnv/porte_operadora_re.cnv
+TTipo de contratação,      CONTR      ,1,cnv/contratacao_nip.cnv
+TTema,                     TEMA       ,1,cnv/tema_nip.cnv
+TSubtema,                  SUBTEMA    ,1,cnv/subtema_nip.cnv
+TClassificação NIP,        CLASSI     ,1,cnv/classificacao_nip.cnv
+TNatureza_NIP,             NAT_NIP    ,1,cnv/natureza_nip.cnv
+TUF,                       SG_UF      ,1,cnv/cd_uf_re.cnv
+LMunicípio,                CD_MUNIC   ,1,cnv/municbr.cnv
+
+
+SOperadora,                OPERADORA  ,1,cnv/cd_operadora.cnv
+SClassificação NIP,        CLASSI     ,1,cnv/classificacao_nip.cnv
+SNatureza_NIP,             NAT_NIP    ,1,cnv/natureza_nip.cnv
+SModalidade,               MODAL      ,1,cnv/modalidade_nip.cnv
+SPorte da operadora,       CD_PORTE   ,1,cnv/porte_operadora_re.cnv
+STipo de contratação,      CONTR      ,1,cnv/contratacao_nip.cnv
+STema,                     TEMA       ,1,cnv/tema_nip.cnv
+SSubtema,                  SUBTEMA    ,1,cnv/subtema_nip.cnv
+SUF,                       SG_UF      ,1,cnv/cd_uf_re.cnv
+SMunicípio,                CD_MUNIC   ,1,cnv/municbr.cnv

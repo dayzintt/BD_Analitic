@@ -1,0 +1,23 @@
+;Índice de Reclamações (IR)
+Adados/ir_*.dbf
+
+H<script language="JavaScript" src="../header.js"></script>
+H<script language="JavaScript" src="../header2.js"></script>
+F<script language="JavaScript" src="../footer_indicadores.js"></script>
+F<script language="JavaScript" src="../footer.js"></script>  
+
+EBeneficiários,            BENEF_mes, cmpt
+EReclamações,              Recla_mes, cmpt
+IIR_Mês,                   Recla_mes, BENEF_mes, 10000,2
+IIR_Acumulado,             Recla_acum, BENEF_acum, 10000,2  
+
+
+TCompetência,              CMPT            ,1,cnv/id_tempo_competencia_ir.cnv
+LOperadora,                CD_OPERADORa    ,1,cnv/cd_operadora_s2.cnv
+LModalidade,               co_classificacao,1,cnv/modalidade.cnv
+LPorte operadora,          porte           ,1,cnv/porte_operadora.cnv
+
+SOperadora,                CD_OPERADORa    ,1,cnv/cd_operadora_s2.cnv
+SModalidade,               co_classificacao,1,cnv/modalidade.cnv
+SPorte operadora,          porte           ,1,cnv/porte_operadora.cnv
+

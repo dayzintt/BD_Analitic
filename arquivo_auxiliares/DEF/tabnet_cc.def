@@ -1,0 +1,42 @@
+;Beneficiários por Operadora
+Adados/tb_cc*.dbf
+;OZEROHIFEN
+
+H<script language="JavaScript" src="../header_RC.js"></script>
+H<script language="JavaScript" src="../header2.js"></script>
+F<script language="JavaScript" src="../footer_c_beneficiarios.js"></script>
+F<script language="JavaScript" src="../footer.js"></script>         
+
+EBenef. Asst. Médica,    NR_BENEF_MH,ID_CMPT
+EBenef. Excl. Odont.,    NR_BENEF_OD,ID_CMPT
+;EBenef. Total,          NR_BENEF_TO,ID_CMPT
+
+TCompetência,            ID_CMPT  ,1,cnv/id_tempo_competencia.cnv
+LOperadora,              CD_OPERADO,1,cnv/cd_operadora.cnv
+LModalidade,             MODALIDADE,1,cnv/modalidade.cnv
+LTipo de contratação,    CD_CONTR  ,1,cnv/cd_tp_contratacao3.cnv
+LFaixa de Benef,         PORTE     ,1,cnv/porte_operadora.cnv
+LRegião,                 SG_UF     ,1,cnv/cd_regiao_brasil.cnv
+LUF ,                    sg_UF     ,1,cnv/cd_uf_brasil_s.cnv
+LCapital,                cd_capital,1,cnv/capital.cnv
+LReg.Metropolitana,      cd_RM     ,1,cnv/cd_rm.cnv
+
+
+CModalidade,             MODALIDADE,1,cnv/modalidade.cnv
+CTipo de contratação,    CD_CONTR  ,1,cnv/cd_tp_contratacao3.cnv
+CFaixa de Benef,         PORTE     ,1,cnv/porte_operadora.cnv
+CRegião,                 SG_UF     ,1,cnv/cd_regiao_brasil.cnv
+CUF,                     sg_UF     ,1,cnv/cd_uf_brasil_s.cnv
+CCapital,                cd_capital,1,cnv/capital.cnv
+CInterior,               cd_capital,1,cnv/interior_tx.cnv
+CRM,                     cd_RM     ,1,cnv/cd_rm.cnv
+
+SRazão Social,           CD_OPERADO,1,cnv/cd_operadora.cnv
+SModalidade,             MODALIDADE,1,cnv/modalidade.cnv
+STipo de contratação,    CD_CONTR  ,1,cnv/cd_tp_contratacao3.cnv
+SFaixa de Benef,         PORTE     ,1,cnv/porte_operadora.cnv
+SRegião,                 SG_UF     ,1,cnv/cd_regiao_brasil.cnv
+SUF,                     sg_UF     ,1,cnv/cd_uf_brasil_s.cnv
+SCapital,                cd_capital,1,cnv/capital.cnv
+SInterior,               cd_capital,1,cnv/interior_tx.cnv
+SReg.Metropolitana,      cd_RM     ,1,cnv/cd_rm.cnv

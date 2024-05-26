@@ -1,0 +1,36 @@
+;Ressarcimento Impugnação
+Adados/tb_resi_*.dbf
+
+H<script language="JavaScript" src="../header.js"></script>
+H<script language="JavaScript" src="../header2.js"></script>
+F<script language="JavaScript" src="../footer_c_ressarcimento_1.js"></script>
+F<script language="JavaScript" src="../footer.js"></script>
+
+EInternações,              INTERNA,CMPT
+EValor total AIH,          VL_TOTAL_AIH,CMPT
+EValor total TUNEP,   VL_TOTAL_TUNEP,CMPT
+
+
+
+TAno,                      CMPT       ,1,cnv/ano_res.cnv
+TModalidade,               MODALIDADE ,1,cnv/modalidade.cnv
+TABI,                      CD_ABI     ,1,cnv/abi.cnv
+TAnalise,                  CD_ANALISE ,1,cnv/analise.cnv       
+TInstância,                CD_INSTANC ,1,cnv/instancia.cnv
+TImpugnação,               CD_IMPUGNA ,1,cnv/impugnacao.cnv
+TDeferimento,              CD_DEFERIM ,1,cnv/deferimento.cnv
+TUF,                       sg_UF      ,1,cnv/cd_uf_brasil_s.cnv
+LRegião/UF,                sg_UF      ,1,cnv/cd_uf_brasil.cnv
+TRegião,                   SG_UF      ,1,cnv/cd_regiao_brasil_r.cnv
+
+
+
+SModalidade,               MODALIDADE ,1,cnv/modalidade.cnv
+SABI,                      CD_ABI     ,1,cnv/abi.cnv
+SAnalise,                  CD_ANALISE ,1,cnv/analise.cnv       
+SInstância,                CD_INSTANC ,1,cnv/instancia.cnv
+SImpugnação,               CD_IMPUGNA ,1,cnv/impugnacao.cnv
+SDeferimento,              CD_DEFERIM ,1,cnv/deferimento.cnv
+SUF,                       sg_UF      ,1,cnv/cd_uf_brasil_s.cnv
+SRegião,                   SG_UF      ,1,cnv/cd_regiao_brasil_r.cnv
+

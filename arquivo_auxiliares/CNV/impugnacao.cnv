@@ -1,0 +1,6 @@
+3 1
+; TD_res_impugnacao
+;
+      1	 Não impugnado                                      0
+      2	 Impugnado                                          1
+      3	 Impedida de impugnação                             9

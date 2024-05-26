@@ -1,0 +1,23 @@
+19 2 L
+;-----------------------------------------------------------
+; Tabela para converter a faixa etária - Caderno de Gestor
+;-----------------------------------------------------------
+      1  Até 1 ano                                          00
+      2  1 a 4 anos                                         01
+      3  5 a 9 anos                                         02
+      4  10 a 14 anos                                       03
+      5  15 a 19 anos                                       04,05
+      6  20 a 24 anos                                       06,07
+      7  25 a 29 anos                                       08,09
+      8  30 a 34 anos                                       10,11
+      9  35 a 39 anos                                       12,13
+     10  40 a 44 anos                                       14,15
+     11  45 a 49 anos                                       16,17
+     12  50 a 54 anos                                       18,19
+     13  55 a 59 anos                                       20,21
+     14  60 a 64 anos                                       22
+     15  65 a 69 anos                                       23
+     16  70 a 74 anos                                       24
+     17  75 a 79 anos                                       25
+     18  80 anos ou mais                                    26,27
+     19  Inconsistente                                      99

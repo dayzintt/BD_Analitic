@@ -1,0 +1,63 @@
+;Atendimentos de beneficiários no SUS
+Adados/tb_res_*.dbf
+
+H<script language="JavaScript" src="../header.js"></script>
+H<script language="JavaScript" src="../header2.js"></script>
+F<script language="JavaScript" src="../footer_c_ressarcimento_1.js"></script>
+F<script language="JavaScript" src="../footer.js"></script>
+
+EAtendimentos,             INTERNA,CMPT
+EValor total,              VL_TOTAL_A,CMPT
+IValor médio,              VL_TOTAL_A,INTERNA,1,2
+EValor cobrado,            VL_AIH_COB,CMPT
+EValor pago,               VL_AIH_PAG,CMPT
+EQuantidade cobrada,       QT_AIH_COB,CMPT
+EQuantidade paga,          QT_AIH_PAG,CMPT
+EDias de permanência AIH,  DIAS_PERMA,CMPT
+IMédia de permanência AIH, DIAS_PERMA,INTERNA,1,2
+
+
+
+TAno,                      CMPT         ,1,cnv/ano_res.cnv
+TTipo de atendimento,      CD_TIPO      ,1,cnv/aihapac.cnv
+TSexo,                     SEXO         ,1,cnv/tp_sexo3.cnv
+TFaixa etária,             CD_FAIXA_E   ,1,cnv/cd_idade_faixa5.cnv
+TTipo de contratação,      CD_CONTR     ,1,cnv/cd_tp_contratacao3.cnv
+TÉpoca do contrato,        TP_VIGENCI   ,1,cnv/tp_vigen_plano_res.cnv
+TSegmentação grupo,        CD_SEGMENT   ,1,cnv/cd_segmentacao_grupo.cnv
+TAbrangência geog.,        cd_abrg      ,1,cnv/cd_abrg_geo.cnv
+TModalidade,               MODALIDADE   ,1,cnv/modalidade.cnv
+LEspecialidade AIH,        ESPECIAL     ,1,cnv/especialidade.cnv
+TCapítulo CID-10,          CD_CID       ,1,cnv/cid10cap.cnv
+TLista morbidades CID-10,  CD_CID       ,1,cnv/cid10_lista05.cnv
+TProcedimento até 2007,    CD_PROCEDI   ,1,cnv/cd_procedi.cnv
+TProcedimento após 2007,   CD_PROCEDI   ,1,cnv/cd_procedi_08.cnv
+TPrestador (De A até H),   CD_RAZAO_P   ,1,cnv/prestador_r.cnv
+TPrestador (De I até Z),   CD_RAZAO_P   ,1,cnv/prestador_r1.cnv
+TEsfera administrativa,    ESFERA_ADM   ,1,cnv/esfera_adm.cnv
+TUF,                       sg_UF        ,1,cnv/cd_uf_brasil_s.cnv
+LRegião/UF,                sg_UF        ,1,cnv/cd_uf_brasil.cnv
+TRegião,                   SG_UF        ,1,cnv/cd_regiao_brasil_r.cnv
+TMunicípio,                CD_MUCINIP	,1,cnv/municbr.cnv
+
+
+
+STipo de atendimento,      CD_TIPO      ,1,cnv/aihapac.cnv
+SSexo,                     SEXO         ,1,cnv/tp_sexo3.cnv
+SFaixa etária,             CD_FAIXA_E   ,1,cnv/cd_idade_faixa5.cnv
+STipo de contratação,      CD_CONTR     ,1,cnv/cd_tp_contratacao3.cnv
+SÉpoca do contrato,        TP_VIGENCI   ,1,cnv/tp_vigen_plano_res.cnv
+SSegmentação grupo,        CD_SEGMENT   ,1,cnv/cd_segmentacao_grupo.cnv
+SAbrangência geog.,        cd_abrg      ,1,cnv/cd_abrg_geo.cnv
+SModalidade,               MODALIDADE   ,1,cnv/modalidade.cnv
+SEspecialidade AIH,        ESPECIAL     ,1,cnv/especialidade.cnv
+SCapítulo CID-10,          CD_CID       ,1,cnv/cid10cap.cnv
+SLista morbidades CID-10,  CD_CID       ,1,cnv/cid10_lista05.cnv
+SProcedimento até 2007,    CD_PROCEDI   ,1,cnv/cd_procedi.cnv
+SProcedimento após 2007,   CD_PROCEDI   ,1,cnv/cd_procedi_08.cnv
+SPrestador (De A até H),   CD_RAZAO_P   ,1,cnv/prestador_r.cnv
+SPrestador (De I até Z),   CD_RAZAO_P   ,1,cnv/prestador_r1.cnv
+SEsfera administrativa,    ESFERA_ADM   ,1,cnv/esfera_adm.cnv
+SUF,                       sg_UF        ,1,cnv/cd_uf_brasil_s.cnv
+SRegião,                   SG_UF        ,1,cnv/cd_regiao_brasil_r.cnv
+SMunicípio,                CD_MUCINIP   ,1,cnv/municbr.cnv

@@ -1,0 +1,16 @@
+14 2 
+      1  Administração Direta da Saúde                      01
+      2  Administração Direta de Outros Orgãos              02
+      3  Administração Indireta - Autarquias                03
+      4  Administração Indireta - Fundação Pública          04
+      5  Administração Indireta - Empresa Pública           05
+      6  Administração Indireta - Org. Social Pública       06
+      7  Empresa Privada                                    07
+      8  Fundação Privada                                   08
+      9  Cooperativa                                        09
+     10  Serviço Social Autônomo                            10
+     11  Entidade Beneficente Sem fins Lucrativos           11
+     12  Economia Mista                                     12
+     13  Sindicato                                          13 
+     14  Não Informado                                      00
+

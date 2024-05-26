@@ -1,0 +1,30 @@
+;Solicitação de Informações
+Adados/tb_inf_*.dbf
+
+H<script language="JavaScript" src="../header.js"></script>
+H<script language="JavaScript" src="../header2.js"></script>
+F<script language="JavaScript" src="../footer_c_reclamacoes.js"></script>
+F<script language="JavaScript" src="../footer.js"></script>
+         
+
+;EReclamação,              RECLAMACAO,ID_CMPT
+EInformação,               INFORMACAO,ID_CMPT
+
+LOperadora,                OPERADORA ,1,cnv/cd_operadora.cnv
+TCompetência,              ID_CMPT   ,1,cnv/id_cmpt_nip.cnv
+TModalidade,               MODALIDADE,1,cnv/modalidade_re.cnv
+TPorte da operadora,       CD_PORTE  ,1,cnv/porte_operadora_re.cnv
+TTipo de contratação,      TP_CONT_PL,1,cnv/cd_tp_contratacao_re.cnv
+TTema,                     DE_TEMA   ,1,cnv/tema_inf.cnv
+TSubtema,                  SUBTEMA   ,1,cnv/subtema.cnv
+TUF,                       SG_UF_BENE,1,cnv/cd_uf_re.cnv
+TMunicípio,                CD_MUNIC  ,1,cnv/municbr.cnv
+
+SOperadora,                OPERADORA ,1,cnv/cd_operadora.cnv
+SModalidade,               MODALIDADE,1,cnv/modalidade_re.cnv
+SPorte da operadora,       CD_PORTE  ,1,cnv/porte_operadora_re.cnv
+STipo de contratação,      TP_CONT_PL,1,cnv/cd_tp_contratacao_re.cnv
+STema,                     DE_TEMA   ,1,cnv/tema_inf.cnv
+SSubtema,                  SUBTEMA   ,1,cnv/subtema.cnv
+SUF,                       SG_UF_BENE,1,cnv/cd_uf_re.cnv
+SMunicípio,                CD_MUNIC  ,1,cnv/municbr.cnv

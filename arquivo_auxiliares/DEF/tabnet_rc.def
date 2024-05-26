@@ -1,0 +1,30 @@
+;Receitas e Despesas (Dados do 4º trimestre de 2023 – Data de corte 10/04/2024)
+Adados/tb_rc_*.dbf
+
+H<script language="JavaScript" src="../header_RC1.js"></script>
+H<script language="JavaScript" src="../header2.js"></script>
+F<script language="JavaScript" src="../footer_c_receita_contraprestacoes_despesas.js"></script>
+F<script language="JavaScript" src="../footer.js"></script>
+
+IReceita de contraprestações,                  Receita
+IOutras receitas operacionais,                 OUTRAS_REC
+IDespesa assistencial,                         Desp_AsT
+IDespesa administrativa,                       Desp_ADM
+IDespesa de comercialização,                   DESPESAS_C
+IOutras despesas operacionais,                 OUTRAS_DES
+IReceitas Administrativas,                     RECEITA_ADM
+
+
+TAno,                      ANO        ,1,cnv/ano_rc.cnv
+LModalidade,               Modalidade ,1,cnv/modalidade_rc.cnv
+LOperadora,                OPERADORa  ,1,cnv/cd_operadora.cnv
+TGrupo Modalidade,         Modalidade ,1,cnv/modalidade_rcg.cnv
+
+
+
+SModalidade,               Modalidade ,1,cnv/modalidade_rc.cnv
+SOperadora,                OPERADORa  ,1,cnv/cd_operadora.cnv
+SGrupo Modalidade,         Modalidade ,1,cnv/modalidade_rcg.cnv
+
+
+

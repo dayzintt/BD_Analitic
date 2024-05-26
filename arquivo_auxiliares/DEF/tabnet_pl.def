@@ -1,0 +1,35 @@
+;Planos de Saúde Registrados ou Cadastrados
+Adados/tb_pl_*.dbf
+
+H<script language="JavaScript" src="../header.js"></script>
+H<script language="JavaScript" src="../header2.js"></script>
+F<script language="JavaScript" src="../footer_c_planos.js"></script>
+F<script language="JavaScript" src="../footer.js"></script>
+
+
+EAssistência Médica,       NR_AM,ID_CMPT
+EExcl. Odontológico,       NR_OD,ID_CMPT
+ETotal,                    NR_TO,ID_CMPT
+
+
+
+TTipo de contratação,      cd_contrat ,1,cnv/cd_tp_contratacao3.cnv
+TSituação do Plano,        CD_SITUACA ,1,cnv/cd_situacao_plano.cnv
+TÉpoca de contratação,     TP_VIGENCI ,1,cnv/tp_vigencia_plano.cnv
+TSegmentação_grupo,        CD_SEGMENT ,1,cnv/cd_segmentacao_grupo.cnv
+TSegmentação,              CD_SEGMENT ,1,cnv/cd_segmentacao_plano.cnv
+TModalidade,               MODALIDADE ,1,cnv/modalidade_pl.cnv
+TAbrg. Geográfica,         cd_abrg    ,1,cnv/cd_abrg_geo.cnv
+TFaixa de Benef.,          class_bene ,1,cnv/porte_operadora_plano.cnv
+TCom/Sem Benef.,           lg_beneF   ,1,cnv/com_sem_beneficiarios.cnv
+
+
+SCom/Sem Benef.,           lg_benef   ,1,cnv/com_sem_beneficiarios.cnv
+STipo de contratação,      cd_contrat ,1,cnv/cd_tp_contratacao3.cnv
+SSituação do Plano,        CD_SITUACA ,1,cnv/cd_situacao_plano.cnv
+SÉpoca de contratação,     TP_VIGENCI ,1,cnv/tp_vigencia_plano.cnv
+SSegmentação_grupo,        CD_SEGMENT ,1,cnv/cd_segmentacao_grupo.cnv
+SSegmentação,              CD_SEGMENT ,1,cnv/cd_segmentacao_plano.cnv
+SModalidade,               MODALIDADE ,1,cnv/modalidade_pl.cnv
+SAbrg. Geográfica,         cd_abrg    ,1,cnv/cd_abrg_geo.cnv
+SFaixa de Benef.,          class_bene ,1,cnv/porte_operadora_plano.cnv

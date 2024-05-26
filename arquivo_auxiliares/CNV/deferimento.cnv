@@ -1,0 +1,7 @@
+4 1
+; TD_res_deferimento
+;
+      1	 Indeferido                                         0
+      2	 Deferido                                           1
+      3	 Não se aplica                                      8
+      4	 Impedida de impugnação                             9

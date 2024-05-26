@@ -1,0 +1,52 @@
+;Mortalidade em beneficiários por Região Metropolitana e Capital
+Adados/tb_mn_*.dbf
+
+H<script language="JavaScript" src="../header.js"></script>
+H<script language="JavaScript" src="../header2.js"></script>
+F<script language="JavaScript" src="../footer_indicadores.js"></script>
+F<script language="JavaScript" src="../footer.js"></script>
+
+
+EÓbitos residência,         OBT_resi,ANO_OBT
+EÓbitos ocorrência,         OBT_ocor,ANO_OBT
+
+; vARIÁVEIS DE LINHA
+
+LRegião,                    SG_UF     ,1,cnv/cd_uf_regiao.cnv
+LRegião/UF,                 SG_UF     ,1,cnv/cd_uf_brasil.cnv
+LUF,                        SG_UF     ,1,cnv/cd_uf_brasil_s.cnv
+LCapital,                   cd_capital,1,cnv/capital.cnv
+LReg. Metropolitana,        CD_RM     ,1,cnv/cd_rm.cnv
+LCapítulo CID10,            gr_cid10  ,1,cnv/cap_cid10.cnv
+LCausa CID10 BR,            tp_mort   ,1,cnv/tp_mortalidade.cnv
+LAno do Óbito,              ano_obt   ,1,cnv/ano.cnv
+LFaixa Etária,              cd_idade  ,1,cnv/idade_faixa5_mort.cnv
+LSexo,                      tp_sexo   ,1,cnv/tp_sexo2.cnv
+
+; VARIÁVEIS DE COLUNA
+
+CAno do Óbito,              ano_obt   ,1,cnv/ano.cnv
+CRegião,                    SG_UF     ,1,cnv/cd_uf_regiao.cnv
+CUF,                        SG_UF     ,1,cnv/cd_uf_brasil_s.cnv
+CCapítulo CID10,            gr_cid10  ,1,cnv/cap_cid10.cnv
+CFaixa Etária,              cd_idade  ,1,cnv/idade_faixa5_mort.cnv
+CSexo,                      tp_sexo   ,1,cnv/tp_sexo2.cnv
+CRaça/Cor,                  raca_cor  ,1,cnv/raca_cor.cnv
+CEscolaridade,              escol     ,1,cnv/escolaridade.cnv
+CEstado Civil,              est_civ   ,1,cnv/estado_civil.cnv
+CLocal Ocorrência,          lc_ocorre ,1,cnv/local_ocorrencia.cnv
+
+; VARIÁVEIS DE COLUNA
+
+SRegião,                    SG_UF     ,1,cnv/cd_uf_regiao.cnv
+SUF,                        SG_UF     ,1,cnv/cd_uf_brasil_s.cnv
+SCapital,                   cd_capital,1,cnv/capital.cnv
+SReg. Metropolitana,        CD_RM     ,1,cnv/cd_rm.cnv
+SCapítulo CID10,            gr_cid10  ,1,cnv/cap_cid10.cnv
+SCausa CID10 BR,            tp_mort   ,1,cnv/tp_mortalidade.cnv
+SFaixa Etária,              cd_idade  ,1,cnv/idade_faixa5_mort.cnv
+SSexo,                      tp_sexo   ,1,cnv/tp_sexo2.cnv
+SRaça/Cor,                  raca_cor  ,1,cnv/raca_cor.cnv
+SEscolaridade,              escol     ,1,cnv/escolaridade.cnv
+SEstado Civil,              est_civ   ,1,cnv/estado_civil.cnv
+SLocal Ocorrência,          lc_ocorre ,1,cnv/local_ocorrencia.cnv

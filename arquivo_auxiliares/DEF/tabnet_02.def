@@ -1,0 +1,44 @@
+;Beneficiários por Município
+Adados/tb_bb_*.dbf
+
+H<script language="JavaScript" src="../header_RC.js"></script>
+H<script language="JavaScript" src="../header2.js"></script>
+F<script language="JavaScript" src="../footer_c_beneficiarios.js"></script>
+F<script language="JavaScript" src="../footer.js"></script>
+         
+
+EAssistência Médica,       NR_BENEF_MH,ID_CMPT
+EExcl. Odontológico,       NR_BENEF_OD,ID_CMPT
+;ETotal,                    NR_BENEF_TO,ID_CMPT
+
+TCompetência,              ID_CMPT   ,1,cnv/id_tempo_competencia.cnv
+TSexo,                     SEXO      ,1,cnv/tp_sexo.cnv
+TFaixa etária,             CD_FAIXA_E,1,cnv/cd_idade_faixa5.cnv
+TFaixa etária-Reajuste,    CD_FAIXA_E,1,cnv/cd_idade_rn63.cnv
+TTipo de contratação,      CD_CONTR  ,1,cnv/cd_tp_contratacao3.cnv
+TÉpoca de contratação,     TP_VIGENCI,1,cnv/tp_vigencia_plano.cnv
+TSegmentação,              CD_SEGMENT,1,cnv/cd_segmentacao_plano.cnv
+TSegmentação_grupo,        CD_SEGMENT,1,cnv/cd_segmentacao_grupo.cnv
+TGrande Região,            SG_UF     ,1,cnv/cd_regiao_brasil.cnv
+TUF,                       sg_UF     ,1,cnv/cd_uf_brasil_s.cnv
+TReg. Metropolitana,       CD_MUNICip,1,cnv/rmetrbr.cnv
+LMunicípio,                CD_MUNICip,1,cnv/municbr.cnv
+
+
+
+
+SSexo,                     SEXO      ,1,cnv/tp_sexo.cnv 
+SFaixa etária,             CD_FAIXA_E,1,cnv/cd_idade_faixa5.cnv
+SFaixa etária-Reajuste,    CD_FAIXA_E,1,cnv/cd_idade_rn63.cnv
+STipo de contratação,      CD_CONTR  ,1,cnv/cd_tp_contratacao3.cnv
+SÉpoca de Contratação,     TP_VIGENCI,1,cnv/tp_vigencia_plano.cnv 
+SSegmentação,              CD_SEGMENT,1,cnv/cd_segmentacao_plano.cnv
+SSegmentação_grupo,        CD_SEGMENT,1,cnv/cd_segmentacao_grupo.cnv
+SUF,                       sg_UF     ,1,cnv/cd_uf_brasil_s.cnv
+SGrande Região,            SG_UF     ,1,cnv/cd_regiao_brasil.cnv
+SCapital,                  cd_capital,1,cnv/capital.cnv
+SReg. Metropolitana,       CD_MUNICip,1,cnv/rmetrbr.cnv
+SMicrorregião,             CD_MUNICIP,1,cnv/microbr.cnv
+SMunicípio,                CD_MUNICip,1,cnv/municbr.cnv
+
+

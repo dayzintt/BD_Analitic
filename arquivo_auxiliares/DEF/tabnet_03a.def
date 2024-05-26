@@ -1,0 +1,40 @@
+;Operadoras com registro ativo
+Adados/tb_opa*.dbf
+
+H<script language="JavaScript" src="../header.js"></script>
+H<script language="JavaScript" src="../header2.js"></script>
+F<script language="JavaScript" src="../footer_c_operadoras_ativo.js"></script>
+F<script language="JavaScript" src="../footer.js"></script>
+         
+
+ETodas as Ops.,          ops_atv,id_cmpt
+EOps. com Benef.,        ops_ben,id_cmpt
+
+;LOperadora,                CD_OPERADO,1,cnv/cd_operadora_atu.cnv
+LOperadora,                CD_OPERADO,1,cnv/cd_operadora.cnv
+LModalidade,               MODALIDADE,1,cnv/modalidade.cnv
+LFaixa de Benef.,          PORTE     ,1,cnv/porte_operadora2.cnv
+LRegião da Sede,           SG_UF     ,1,cnv/cd_regiao_brasil.cnv
+LUF da Sede,               sg_UF     ,1,cnv/cd_uf_brasil_s.cnv
+LRegiao/UF,                sg_UF     ,1,cnv/cd_uf_brasil.cnv
+LAno do Registro,          ANO_REG   ,1,cnv/ano_credenciamento.cnv
+
+
+CModalidade,               MODALIDADE,1,cnv/modalidade.cnv
+CFaixa de Benef.,          PORTE     ,1,cnv/porte_operadora2.cnv
+CRegião da Sede,           SG_UF     ,1,cnv/cd_regiao_brasil.cnv
+CUF da Sede,               sg_UF     ,1,cnv/cd_uf_brasil_s.cnv     
+CSede na Capital,          lg_capital,1,cnv/lg_capital.cnv
+CSede no Interior,         lg_capital,1,cnv/lg_nao_capital.cnv
+CAno do Registro,          ANO_REG   ,1,cnv/ano_credenciamento.cnv
+
+;SRazão Social,             CD_OPERADO,1,cnv/cd_operadora_atu.cnv
+SRazão Social,             CD_OPERADO,1,cnv/cd_operadora.cnv
+SModalidade,               MODALIDADE,1,cnv/modalidade.cnv
+SFaixa de Benef.,          PORTE     ,1,cnv/porte_operadora2.cnv
+SRegião da Sede,           SG_UF     ,1,cnv/cd_regiao_brasil.cnv
+SUF da Sede,               sg_UF     ,1,cnv/cd_uf_brasil_s.cnv
+SSede na Capital,          lg_capital,1,cnv/lg_capital.cnv
+SSede na RM,               cd_RM     ,1,cnv/cd_rm.cnv
+SSede no Interior,         lg_capital,1,cnv/lg_nao_capital.cnv
+SAno do Registro,          ANO_REG   ,1,cnv/ano_credenciamento.cnv
